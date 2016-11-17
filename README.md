@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/fisenkodv/mongo-lock.svg?branch=master)](https://travis-ci.org/fisenkodv/mongo-lock)
+[![Build status](https://ci.appveyor.com/api/projects/status/gf60yj8hj666pt1h/branch/master?svg=true)](https://ci.appveyor.com/project/fisenkodv/mongo-lock/branch/master)
+
 # MongoDB Lock
 ## Global lock
 ```csharp
