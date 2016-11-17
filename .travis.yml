@@ -1,0 +1,4 @@
+language: csharp
+solution: MongoDBLock.sln
+script:
+- xbuild /p:Configuration=Release MongoDBLock.sln
